@@ -3,6 +3,6 @@ title,true,true
 sender,true,true
 postmark_location,true,true
 date,true,true
-delivery_address,true,true
+delivery_address,true,false
 artist,true,true
 image_description,true,false
