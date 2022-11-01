@@ -9,4 +9,4 @@ date,Date Mailed,
 delivery_address,Delivery Address,true
 artist,Postcard Artist,
 image_link,Link to Postcard Image,,true
-image_Description,Description of Postcard Image
+image_description,Description of Postcard Image
