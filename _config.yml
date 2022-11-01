@@ -22,10 +22,10 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # title of site appears in banner
 title: A Life in Postcards 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: From 2013 - 2022
+tagline: From 2011 - 2022
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: A sample digital collection of postcards received between 2013-2022
+description: A sample digital collection of postcards received between 2011-2022
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Caroline Scheving
 
