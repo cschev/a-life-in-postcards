@@ -5,4 +5,4 @@ postmark_location,true,true
 date,true,true
 delivery_address,true,true
 artist,true,true
-image_description_true_true
+image_description,true,true
