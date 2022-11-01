@@ -1,12 +1,12 @@
-field,display_name,browse_link,external_link
-title,Title,
-format,Format,
-sender,Sender,true
-postmark_location,Postmark Location,true
-latitude,Latitude
-longitude,Longitude
-date,Date Mailed,
-delivery_address,Delivery Address,true
-artist,Postcard Artist,
-image_link,Link to Postcard Image,,true
-image_description,Description of Postcard Image
+field,display_name,browse_link,dc_map,external_link
+title,Title,,DCTERMS.title
+format,Format,,DCTERMS.type
+sender,Sender,true,DCTERMS.contributor
+postmark_location,Postmark Location,true,DCTERMS.spatial
+latitude,Latitude,,DCTERMS.spatial
+longitude,Longitude,,DCTERMS.spatial
+date,Date Mailed,,DCTERMS.date
+delivery_address,Delivery Address,true,DCTERMS.spatial
+artist,Postcard Artist,,DCTERMS.contributor
+image_link,Link to Postcard Image,,DCTERMS.relation,true
+image_description,Description of Postcard Image,,DCTERMS.description
