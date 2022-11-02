@@ -1,5 +1,5 @@
 field,display_name
 title,Title
-date,Date
-description,Description
-subject,Subjects
+date,Postmark Date
+sender,Sender
+postmark_location,Postmark Location
