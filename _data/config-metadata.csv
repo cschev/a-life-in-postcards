@@ -3,8 +3,6 @@ title,Title,,DCTERMS.title
 format,Format,,DCTERMS.type
 sender,Sender,true,DCTERMS.contributor
 postmark_location,Postmark Location,true,DCTERMS.spatial
-latitude,Latitude,,DCTERMS.spatial
-longitude,Longitude,,DCTERMS.spatial
 date,Date Mailed,,DCTERMS.date
 delivery_address,Delivery Address,true,DCTERMS.spatial
 artist,Postcard Artist,,DCTERMS.contributor
