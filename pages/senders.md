@@ -21,7 +21,7 @@ Ellen Dudek and Caroline Scheving have been friends since they were teenagers. E
 
 #### Sophia Ellingham
 
-Sophia Ellingham attended middle school and high school with Caroline Scheving in Nashville, TN. She attended Duke University in Durham, North Carolina, where she obtained her bachelor's degree in computer science. Sophia is currently a PhD candidate at Indiana University, Bloomington studying English literature. Having surprisingly ended up at the same graduate school, Sophia and Caroline are currently roommates, signifcantly cutting down the number of postcards Caroline receives from Sophia.
+Sophia Ellingham attended middle school and high school with Caroline Scheving in Nashville, TN. She attended Duke University in Durham, North Carolina, where she obtained her bachelor's degree in computer science. Sophia is currently a PhD candidate at Indiana University, Bloomington studying English literature. Having surprisingly ended up at the same graduate school, Sophia and Caroline are currently roommates, significantly cutting down the number of postcards Caroline receives from Sophia.
 
 #### Emma Fischer
 
