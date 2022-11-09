@@ -17,7 +17,7 @@ Becca Dedert attended middle school and high school with Caroline Scheving in Na
 
 #### Ellen Dudek
 
-Ellen Dudek and Caroline Scheving have been friends since they were teenagers. Ellen is currently engaged to fellow postcard sender Cole Porter, and they live together in Nashville, TN with their cats. Ellen currently works as a teaching assitant and after school staff member at the University School of Nashville. 
+Ellen Dudek and Caroline Scheving have been friends since they were teenagers. Ellen is currently engaged to fellow postcard sender Cole Porter, and they live together in Nashville, TN with their cats. Ellen currently works as a teaching assistant  and after school staff member at the University School of Nashville. 
 
 #### Sophia Ellingham
 
