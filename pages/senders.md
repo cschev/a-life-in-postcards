@@ -13,7 +13,7 @@ Sydney Bailes attended middle school and high school with Caroline Scheving in N
 
 #### Becca Dedert
 
-Becca Dedert attended middle school and high school with Caroline Scheving in Nashville, TN. She attended Trinity College in Hartford, Conneticut, where she obtained her bachelor's degree in public policy and law and urban studies. She now lives in Washington, D.C. with her fiancé Francisco Chang and their cat Hermes. She currently works as a Policy Assistant at the Urban Institute. 
+Becca Dedert attended middle school and high school with Caroline Scheving in Nashville, TN. She attended Trinity College in Hartford, Connecticut, where she obtained her bachelor's degree in public policy and law and urban studies. She now lives in Washington, D.C. with her fiancé Francisco Chang and their cat Hermes. She currently works as a Policy Assistant at the Urban Institute. 
 
 #### Ellen Dudek
 
