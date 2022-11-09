@@ -49,4 +49,4 @@ Alison Swanbeck met Caroline Scheving during her freshman year at Emory Universi
 
 #### Cathy Zhang
 
-Cathy attended middle school and high school with Caroline Scheving in Nashville, TN. She attended the University of Pennsylvania, where she obtained her bachelor's degree in health and society and sociology. Currently, Cathy is attending law school at Harvard and serves as a student fellow at the Petrie-Flom Center for Health Law Policy, Biotechnology, and Bioethics. Many of the funniest postcards in this collection were sent by Cathy.
+Cathy attended middle school and high school with Caroline Scheving in Nashville, TN. She attended the University of Pennsylvania, where she obtained her bachelor’s degree in health and society and sociology. Currently, Cathy is attending law school at Harvard and serves as a student fellow at the Petrie-Flom Center for Health Law Policy, Biotechnology, and Bioethics. In her free time, Cathy enjoys taking long walks and making soap carvings. Many of the funniest postcards in this collection were sent by Cathy.
