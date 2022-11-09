@@ -33,7 +33,7 @@ Jane Howard is Caroline Scheving's wonderful mother. She is originally from Gain
 
 #### Sarah Hua
 
-Sarah Hua attended middle school and high school with Caroline Scheving in Nashville, TN. She attended the Massachusetts Institute of Technology, where she obtained her bachelor's degree in mechanical engineering. She currently lives in Minneapolis and works as a research and design engineer at Boston Scientific. In her free time, Sarah enjoys drawing, playing video games, and trying out new resturants with friends.
+Sarah Hua attended middle school and high school with Caroline Scheving in Nashville, TN. She attended the Massachusetts Institute of Technology, where she obtained her bachelor's degree in mechanical engineering. She currently lives in Minneapolis and works as a research and design engineer at Boston Scientific. In her free time, Sarah enjoys drawing, playing video games, and trying out new restaurants with friends.
 
 #### Cole Porter
 
