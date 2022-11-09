@@ -29,7 +29,7 @@ Emma Fischer attended elementary school, middle school, and high school with Car
 
 #### Jane Howard
 
-Jane Howard is Caroline Scheving's wonderful mother. She is originally from Gainesville, FL and currently lives in Nashville, TN with her husband Larry and her goldendoodle Blue. She works as a neurologist at the Veterans Affairs Hospital, but she is looking forward to retiring in the near future. Without Jane, this collection of postcards would be no where near as robust as it is today.
+Jane Howard is Caroline Scheving's wonderful mother. She is originally from Gainesville, FL and currently lives in Nashville, TN with her husband Larry and her goldendoodle Blue. She works as a neurologist at the Veterans Affairs Hospital, but she is looking forward to retiring in the near future. Without Jane, this collection of postcards would be nowhere near as robust as it is today.
 
 #### Sarah Hua
 
