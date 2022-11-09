@@ -9,7 +9,7 @@ Listed below are brief biographies of the different individuals who have sent Ca
 
 #### Sydney Bailes
 
-Syndey Bailes attended middle school and high school with Caroline Scheving in Nashville, TN. She attended George Washington University in Washington, D.C. where she obtained her bachelor's degree in biomedical/medical engineering. Sydney is currently a PhD candidate at Boston University studying biomedical engineering. She has a wonderful cat named Arya and is a passionate sports lover. 
+Sydney Bailes attended middle school and high school with Caroline Scheving in Nashville, TN. She attended George Washington University in Washington, D.C. where she obtained her bachelor's degree in biomedical/medical engineering. Sydney is currently a PhD candidate at Boston University studying biomedical engineering. She has a wonderful cat named Arya and is a passionate sports lover. 
 
 #### Becca Dedert
 
