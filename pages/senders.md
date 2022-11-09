@@ -25,7 +25,7 @@ Sophia Ellingham attended middle school and high school with Caroline Scheving i
 
 #### Emma Fischer
 
-Emma Fischer attended elementary school, middle school, and high school with Caroline Scheving in Nashville, TN. Both Emma and Caroline also moved to Atlanta, GA to attend college, though Emma attended Agnes Scott College, where she obtained her bacherlor's degree in religion and social justice. Emma is currently in training to become a rabbi at the Reconstructionist Rabbinical College in Wyncote, PA. She also serves as a second grade Sunday school teacher at the Philadelphia Germantown Jewish Center. While living in Philadelphia, Emma has also become friends with fellow postcard sender Alison Swanbeck.
+Emma Fischer attended elementary school, middle school, and high school with Caroline Scheving in Nashville, TN. Both Emma and Caroline also moved to Atlanta, GA to attend college, though Emma attended Agnes Scott College, where she obtained her bachelor's degree in religion and social justice. Emma is currently in training to become a rabbi at the Reconstructionist Rabbinical College in Wyncote, PA. She also serves as a second grade Sunday school teacher at the Philadelphia Germantown Jewish Center. While living in Philadelphia, Emma has also become friends with fellow postcard sender Alison Swanbeck.
 
 #### Jane Howard
 
