@@ -41,7 +41,7 @@ Cole Porter and Caroline Scheving have been friends since they were teenagers. C
 
 #### Brenna Scheving
 
-Brenna Scheving is Caroline Scheving's wonderful sister. She is originally from Nashville, TN and attended college in Evanston, IL at Northwestern University. After graduating from college she lived for some time in New York City before moving back to Nashville, TN. She currently resides in Hella, Iceland with her husband Ívar and their daughter Katla. 
+Brenna Scheving is Caroline Scheving's wonderful sister. She is originally from Nashville, TN and attended college in Evanston, IL at Northwestern University. After graduating from college, she lived for some time in New York City before moving back to Nashville, TN. She currently resides in Hella, Iceland with her husband Ívar and their daughter Katla. 
 
 #### Alison Swanbeck
 
