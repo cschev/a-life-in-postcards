@@ -1,5 +1,5 @@
 ---
-title: Collection History
+title: Technical Information
 layout: about
-permalink: /history.html
+permalink: /tech.html
 ---
