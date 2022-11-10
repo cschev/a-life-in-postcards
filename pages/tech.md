@@ -16,7 +16,7 @@ For this project, I used an [Epson Perfection V550 Photo Color Scanner](https://
 
 The following PDF explains the metadata standards used to create this project.
 
-{% include feature/pdf.html objectid="/assets/metadata_profile.pdf" %}
+{% include feature/pdf.html objectid="/assets/metadata_profile.pdf" width="50" %}
 
 #### Acknowledgements
 
