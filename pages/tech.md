@@ -10,7 +10,7 @@ This page includes various technical information about the creation of this webs
 
 #### Imaging Standards
 
-For this project, I used an [Epson Perfection V550 Photo Color Scanner](https://www.example.com](https://epson.com/Clearance-Center/Scanners/Epson-Perfection-V550-Photo-Color-Scanner/p/B11B210201) to digitize my postcards. I originally saved my scans as PDFs but later converted them to JPEGs in order to ensure that previews of each card appeared on this website.
+For this project, I used an [Epson Perfection V550 Photo Color Scanner](https://epson.com/Clearance-Center/Scanners/Epson-Perfection-V550-Photo-Color-Scanner/p/B11B210201) to digitize my postcards. I originally saved my scans as PDFs but later converted them to JPEGs in order to ensure that previews of each card appeared on this website.
 
 #### Metadata Application Profile
 
